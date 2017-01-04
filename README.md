@@ -1,5 +1,5 @@
 # flat-admin-v3-for-laravel
-Flat Admin v.3 theme adaptation for Laravel Framework
+Flat Admin v.3 theme adaptation for *Laravel Framework 5.3*
 
 ## How to use it
 
