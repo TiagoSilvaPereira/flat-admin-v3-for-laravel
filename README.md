@@ -1,11 +1,11 @@
 # flat-admin-v3-for-laravel
 Flat Admin v.3 theme adaptation for *Laravel Framework 5.3*
 
-# About
+## About
 
-This is a adptation of the Flat Admin V.3 Theme [https://github.com/tui2tone/flat-admin-bootstrap-templates], a very nice and beautiful theme, for the Laravel 5.3 Framework.
+This is a adptation of the [Flat Admin V.3 Theme](https://github.com/tui2tone/flat-admin-bootstrap-templates), a very nice and beautiful theme, for the Laravel 5.3 Framework.
 
-# How to use it
+## How to use it
 
 First, create a Laravel 5.3 Project, with the command:
 
