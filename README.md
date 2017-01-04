@@ -17,6 +17,12 @@ php artisan make:auth
 
 And, finally, download this repositorie (ZIP or clone), and copy the *public* and *resources* folder inside your project folder. Confirm the file overwrites.
 
+Clear the compiled views:
+
+```
+php artisan view:clear
+```
+
 Now you can run your project with:
 
 ```
