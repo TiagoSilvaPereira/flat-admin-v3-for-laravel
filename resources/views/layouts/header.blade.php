@@ -18,10 +18,12 @@
             </ul>
             <ul class="nav navbar-nav navbar-left">
                 <li class="navbar-title">@yield('title')</li>
+                @section('search')
                 <li class="navbar-search hidden-sm">
-                  <input id="search" type="text" placeholder="Search..">
+                  <input id="search" type="text" placeholder="Search...">
                   <button class="btn-search"><i class="fa fa-search"></i></button>
                 </li>
+                @show
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown notification">
