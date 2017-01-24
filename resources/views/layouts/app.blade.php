@@ -38,7 +38,8 @@
         
                 @include('layouts.header')
                 @include('layouts.float-button')
-
+                
+                @include('layouts.success-errors')
                 @yield('content')
                 @include('layouts.footer')
 
